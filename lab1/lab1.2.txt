@@ -1,0 +1,7 @@
+1.http://localhost/lw1/mysql_is_a_database_server.html - Ошибка 404 или Not Found («не найдено») — стандартный код ответа HTTP о том, что клиент был в состоянии общаться с сервером, но сервер не может найти данные согласно запросу, для того чтобы исправить ошибку требуется добавить файл по указанному адресу
+
+2. http://localhost/lw1/nginx_is_fast_http_server.txt - Код 200, означает что запрос был успешно выполнен
+
+3.http://localhost/lw1/php_is_a_server_scripting_language.php - Код 302 Found, означает что запрошенный документ временно доступен под другому URL
+  
+4.http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hardly - HTTP Error 400, Код состояния ответа "HTTP 400 Bad Request" указывает, что сервер не смог понять запрос из-за недействительного синтаксиса, решением в данном случае изменения в запросе слова harldy на hard
